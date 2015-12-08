@@ -7,3 +7,5 @@ I:\前期备份资料\C#项目路径\AndonSerial\AndonSerial\obj\x86\Debug\ComPo
 I:\前期备份资料\C#项目路径\AndonSerial\AndonSerial\obj\x86\Debug\ComPort.pdb
 E:\Devel\github\AndonSerial\AndonSerial\obj\x86\Debug\ComPort.exe
 E:\Devel\github\AndonSerial\AndonSerial\obj\x86\Debug\ComPort.pdb
+E:\Devel\github\COMPort\AndonSerial\AndonSerial\obj\x86\Debug\ComPort.exe
+E:\Devel\github\COMPort\AndonSerial\AndonSerial\obj\x86\Debug\ComPort.pdb
