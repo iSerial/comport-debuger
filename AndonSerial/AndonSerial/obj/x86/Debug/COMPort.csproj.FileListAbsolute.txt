@@ -1,0 +1,9 @@
+I:\前期备份资料\C#项目路径\AndonSerial\AndonSerial\obj\x86\Debug\AndonSerial.AndonForm.resources
+I:\前期备份资料\C#项目路径\AndonSerial\AndonSerial\obj\x86\Debug\COMPort.csproj.GenerateResource.Cache
+I:\前期备份资料\C#项目路径\AndonSerial\AndonSerial\bin\Debug\ComPort.exe
+I:\前期备份资料\C#项目路径\AndonSerial\AndonSerial\bin\Debug\ComPort.pdb
+I:\前期备份资料\C#项目路径\AndonSerial\AndonSerial\obj\x86\Debug\ComPort.Properties.Resources.resources
+I:\前期备份资料\C#项目路径\AndonSerial\AndonSerial\obj\x86\Debug\ComPort.exe
+I:\前期备份资料\C#项目路径\AndonSerial\AndonSerial\obj\x86\Debug\ComPort.pdb
+E:\Devel\github\AndonSerial\AndonSerial\obj\x86\Debug\ComPort.exe
+E:\Devel\github\AndonSerial\AndonSerial\obj\x86\Debug\ComPort.pdb

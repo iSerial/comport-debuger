@@ -1,0 +1,16 @@
+E:\C#项目路径\AndonSerial\AndonSerial\bin\Debug\AndonSerial.exe
+E:\C#项目路径\AndonSerial\AndonSerial\bin\Debug\AndonSerial.pdb
+E:\C#项目路径\AndonSerial\AndonSerial\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\C#项目路径\AndonSerial\AndonSerial\obj\x86\Debug\AndonSerial.Properties.Resources.resources
+E:\C#项目路径\AndonSerial\AndonSerial\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\C#项目路径\AndonSerial\AndonSerial\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\C#项目路径\AndonSerial\AndonSerial\obj\x86\Debug\AndonSerial.exe
+E:\C#项目路径\AndonSerial\AndonSerial\obj\x86\Debug\AndonSerial.pdb
+E:\C#项目路径\AndonSerial\AndonSerial\obj\x86\Debug\AndonSerial.AndonForm.resources
+I:\前期备份资料\C#项目路径\AndonSerial\AndonSerial\obj\x86\Debug\AndonSerial.exe
+I:\前期备份资料\C#项目路径\AndonSerial\AndonSerial\obj\x86\Debug\AndonSerial.pdb
+I:\前期备份资料\C#项目路径\AndonSerial\AndonSerial\bin\Debug\AndonSerial.exe
+I:\前期备份资料\C#项目路径\AndonSerial\AndonSerial\bin\Debug\AndonSerial.pdb
+I:\前期备份资料\C#项目路径\AndonSerial\AndonSerial\obj\x86\Debug\AndonSerial.AndonForm.resources
+I:\前期备份资料\C#项目路径\AndonSerial\AndonSerial\obj\x86\Debug\AndonSerial.Properties.Resources.resources
+I:\前期备份资料\C#项目路径\AndonSerial\AndonSerial\obj\x86\Debug\AndonSerial.csproj.GenerateResource.Cache
