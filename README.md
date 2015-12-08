@@ -14,4 +14,10 @@
 
 该例子是本人学习串口编程的时候练习用的，项目注释比较全，熟悉了这个例子，你串口编程基本入门了。
 
+###项目截图
+
+![截图](http://7xozrd.com1.z0.glb.clouddn.com/COMPort1.png)
+![截图](http://7xozrd.com1.z0.glb.clouddn.com/COmPort2.png)
+![截图](http://7xozrd.com1.z0.glb.clouddn.com/COMPort.png)
+
 
